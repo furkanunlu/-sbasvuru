@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\bin\Debug\netcoreapp3.1\Proje.Model.deps.json
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\bin\Debug\netcoreapp3.1\Proje.Model.dll
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\bin\Debug\netcoreapp3.1\Proje.Model.pdb
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\bin\Debug\netcoreapp3.1\Proje.Core.dll
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\bin\Debug\netcoreapp3.1\Proje.Core.pdb
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\obj\Debug\netcoreapp3.1\Proje.Model.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\obj\Debug\netcoreapp3.1\Proje.Model.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\obj\Debug\netcoreapp3.1\Proje.Model.AssemblyInfo.cs
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\obj\Debug\netcoreapp3.1\Proje.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\obj\Debug\netcoreapp3.1\Proje.Model.csproj.CopyComplete
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\obj\Debug\netcoreapp3.1\Proje.Model.dll
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Model\obj\Debug\netcoreapp3.1\Proje.Model.pdb

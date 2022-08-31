@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\bin\Debug\netcoreapp3.1\Proje.Core.deps.json
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\bin\Debug\netcoreapp3.1\Proje.Core.dll
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\bin\Debug\netcoreapp3.1\Proje.Core.pdb
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\obj\Debug\netcoreapp3.1\Proje.Core.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\obj\Debug\netcoreapp3.1\Proje.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\obj\Debug\netcoreapp3.1\Proje.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\obj\Debug\netcoreapp3.1\Proje.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\obj\Debug\netcoreapp3.1\Proje.Core.dll
+C:\Users\HP\source\repos\Ada_Yazılım_IsBasvuruProjesi\Proje.Core\obj\Debug\netcoreapp3.1\Proje.Core.pdb
